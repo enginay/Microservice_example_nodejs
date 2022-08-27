@@ -17,3 +17,6 @@ A list of technologies and dependencies used within the project:
 * [ExpressJs](https://expressjs.com/de/starter/hello-world.html)
 * [MongoDB](https://www.mongodb.com/de-de)
 * [Docker](https://www.docker.com/)
+
+:information_source:
+ Prometheus (For Monitoring) is not fully implemented
