@@ -1,0 +1,15 @@
+{
+  "name": "microservice_ordermanagement",
+  "version": "1.0.0",
+  "description": "Microservice Application for Orders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Engin Aykat",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "concurrently": "^7.2.1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "standard.enableGlobally": true,
+    "javascript.format.enable": false,
+    "standard.autoFixOnSave": true,
+    "git.ignoreLimitWarning": true
+}
